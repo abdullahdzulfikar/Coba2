@@ -3,6 +3,5 @@
 void main({
     printf("Aku adalah superhero");
     printf("ayang");
-    
 } 
 
